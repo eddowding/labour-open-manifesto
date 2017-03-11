@@ -12,7 +12,13 @@ This particular version is set up as a demo of how Labour could build an open ma
 
 If you want to make a new page, hit "suggest a change" and then click "create new file".
 
+## How to trial 
+1. List of [democracy platforms]
+2. How to [experiment]
+3. Process for [adopting a platform]
+
 ## Your first edits
 
 1. Visit [Creative Commons](https://creativecommons.org/) and choose a license for this site, then edit [the license page](license.html) to match.
 2. Consider adding a code of conduct. We recommend the [Contributor Covenant](http://contributor-covenant.org/). Pop that into the [Contributing](contributing.html) page.
+
