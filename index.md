@@ -10,7 +10,7 @@ This particular version is set up as a demo of how Labour could build an open ma
 * Once a suggestion is made, project contributors vote on whether or not it's accepted. Click "View proposals" above to see the current proposals.
 * Once a proposal is accepted, the author gets to vote on future proposals.
 
-For now, while you can edit any page, new pages must be created using GitHub's built-in editor or by using a local git clone. Talk to a project administrator or a nearby coder for help there.
+If you want to make a new page, hit "suggest a change" and then click "create new file".
 
 ## Your first edits
 
